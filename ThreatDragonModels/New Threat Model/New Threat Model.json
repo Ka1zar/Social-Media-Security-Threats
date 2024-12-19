@@ -19,12 +19,12 @@
         "cells": [
           {
             "position": {
-              "x": 29.999999999996646,
-              "y": 55.93750000000563
+              "x": 29.99999999999642,
+              "y": 55.937500000006025
             },
             "size": {
-              "width": 780,
-              "height": 365.625
+              "width": 740,
+              "height": 346.875
             },
             "visible": true,
             "shape": "trust-boundary-box",
@@ -426,8 +426,8 @@
           },
           {
             "position": {
-              "x": 650,
-              "y": 250
+              "x": 620,
+              "y": 240
             },
             "size": {
               "width": 100,
@@ -836,18 +836,11 @@
                 "denialOfService": 0,
                 "elevationOfPrivilege": 1
               }
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
             }
           },
           {
             "position": {
-              "x": 430,
+              "x": 390,
               "y": 300
             },
             "size": {
