@@ -28,8 +28,8 @@
             },
             "visible": true,
             "shape": "trust-boundary-box",
-            "id": "6da0c123-4646-42ec-a775-54a2abe05570",
             "zIndex": -1,
+            "id": "6da0c123-4646-42ec-a775-54a2abe05570",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Trust Boundary",
